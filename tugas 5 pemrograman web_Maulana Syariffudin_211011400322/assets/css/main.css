@@ -1,0 +1,23 @@
+
+.nav{
+    background-color: aqua;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+    
+}
+
+.item{
+    list-style: none;
+    display: inline;
+    margin-right: 40px;
+
+}
+
+.footer{
+    background-color: blueviolet;
+    font-size: medium;
+    font-style: oblique;
+    padding-top: 90px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
